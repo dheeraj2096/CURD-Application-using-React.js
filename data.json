@@ -1,0 +1,14 @@
+[
+{
+        "InvestmentId" : 1,
+        "Region" : "Hyderabad",
+        "Investment Name" : "Dheeraj",
+        "Deal Status" : "Closed"
+},
+{
+        "InvestmentId" : 2,
+        "Region" : "Vishakapatnam",
+        "Investment Name" : "Madhu",
+        "Deal Status" : "Closed"
+}
+]
